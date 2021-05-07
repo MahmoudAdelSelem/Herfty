@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPP", "GPP\GPP.csproj", "{797C9DFA-1115-40E4-9062-6D569630DA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797C9DFA-1115-40E4-9062-6D569630DA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C9DFA-1115-40E4-9062-6D569630DA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C9DFA-1115-40E4-9062-6D569630DA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C9DFA-1115-40E4-9062-6D569630DA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2CE192-1C20-4212-BB95-6316223DE6E6}
+	EndGlobalSection
+EndGlobal
